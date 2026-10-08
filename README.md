@@ -1,1 +1,1 @@
-# Ptoyecto-SO
+# Proyecto-SO
